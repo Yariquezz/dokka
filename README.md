@@ -6,6 +6,8 @@ Clone the repository:
     git clone https://github.com/Yariquezz/dokka.git
     cd dokka
 
+Use python3.5+
+
 Create virtualenv:
 
     virtualenv venv
