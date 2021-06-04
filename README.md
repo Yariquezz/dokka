@@ -3,7 +3,7 @@
 _____
 Clone the repository:
 
-    git clone
+    git clone https://github.com/Yariquezz/dokka.git
     cd dokka
 
 Create virtualenv:
